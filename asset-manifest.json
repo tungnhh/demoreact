@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/demoreact/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/demoreact/static/js/main.6eb3bbe2.chunk.js",
+    "main.js.map": "/demoreact/static/js/main.6eb3bbe2.chunk.js.map",
+    "runtime-main.js": "/demoreact/static/js/runtime-main.3950b93f.js",
+    "runtime-main.js.map": "/demoreact/static/js/runtime-main.3950b93f.js.map",
+    "static/js/2.0c349504.chunk.js": "/demoreact/static/js/2.0c349504.chunk.js",
+    "static/js/2.0c349504.chunk.js.map": "/demoreact/static/js/2.0c349504.chunk.js.map",
+    "static/js/3.113a3059.chunk.js": "/demoreact/static/js/3.113a3059.chunk.js",
+    "static/js/3.113a3059.chunk.js.map": "/demoreact/static/js/3.113a3059.chunk.js.map",
+    "index.html": "/demoreact/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/demoreact/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.0c349504.chunk.js.LICENSE.txt": "/demoreact/static/js/2.0c349504.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/demoreact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3950b93f.js",
+    "static/js/2.0c349504.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.6eb3bbe2.chunk.js"
+  ]
+}
